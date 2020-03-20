@@ -1,4 +1,7 @@
-## How to Run the tests and visualize them on the terminal and the browser
+# test-javascriptApp-using-jest-and-puppeteer
+
+## How to Run
+the tests and visualize them on the terminal and the browser
 
 ### What is the project about in a nutshell:
 Being inspired by the udemy course [JavaScript - The Complete Guide 2020](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced) I have enriched the [Section 31: Introduction to Testing](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/learn/lecture/16677242#overview) with the testing-coverage-report provided by Jest.
