@@ -1,0 +1,31 @@
+{
+  "name": "js-testing-introduction",
+  "version": "1.0.0",
+  "description": "An introduction to JS testing",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack app.js --mode development --watch",
+    "test": "jest --coverage --forceExit"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "testing",
+    "jest",
+    "unit",
+    "tests",
+    "integration",
+    "tests",
+    "e2e",
+    "tests"
+  ],
+  "author": "Arlinda Brahimi",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "istanbul-reports": "file:./local-packages/istanbul-reports-2.2.6.tgz",
+    "puppeteer": "^2.1.1",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  }
+}
